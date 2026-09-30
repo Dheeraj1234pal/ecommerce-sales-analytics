@@ -136,7 +136,9 @@ The dashboard explores questions such as:
 
 ## 🖼️ Dashboard Preview
 
-![Ecommerce-sales-analytics-dashboard.png](images/dashboard-preview.png)
+## 🖼️ Dashboard Preview
+
+![E-Commerce Dashboard](./images/dashboard-preview.png)
 
 ## 🚀 How to Use
 
